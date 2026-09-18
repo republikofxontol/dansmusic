@@ -1,0 +1,6 @@
+{
+  "name": "Dansmusic",
+  "description": "Pemutar musik modern dengan streaming jernih, cover album hd spotify, lirik sinkron, antrean cerdas, dan widget pip.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

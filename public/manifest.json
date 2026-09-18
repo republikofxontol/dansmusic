@@ -1,0 +1,32 @@
+{
+  "name": "Dansmusic",
+  "short_name": "Dansmusic",
+  "description": "Pemutar musik modern dengan streaming jernih, cover album hd spotify, lirik sinkron, antrean cerdas, dan widget pip.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#030e17",
+  "theme_color": "#030e17",
+  "orientation": "portrait-primary",
+  "categories": ["music", "entertainment", "audio"],
+  "shortcuts": [
+    {
+      "name": "Beranda",
+      "short_name": "Beranda",
+      "description": "Buka beranda Dansmusic",
+      "url": "/#/home"
+    },
+    {
+      "name": "Pencarian",
+      "short_name": "Cari",
+      "description": "Cari musik dan artis",
+      "url": "/#/search"
+    },
+    {
+      "name": "Koleksi",
+      "short_name": "Koleksi",
+      "description": "Buka playlist dan lagu favorit",
+      "url": "/#/library"
+    }
+  ]
+}
